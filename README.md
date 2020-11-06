@@ -10,7 +10,7 @@ sudo apt install subjack
 
 sudo apt install golang-go
 
-go get -u -v github.com/lukasikic/subzy
+go get -u -v https://github.com/lukasikic/subzy
 
 sudo su
 
