@@ -1,5 +1,6 @@
 # STKO-SubDomainTakeOver
 
+This script detects the subdomains which are vulnerable to takeover's. 
 
 ## Prerequisites:
 
