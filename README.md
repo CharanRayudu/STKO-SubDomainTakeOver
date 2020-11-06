@@ -8,6 +8,15 @@ sudo apt install subfinder
 
 sudo apt install subjack 
 
+sudo apt install golang-go
+
+go get -u -v github.com/lukasikic/subzy
+
+sudo su
+
+cd go/bin/
+
+cp subzy /usr/local/bin
 
 
 ## Installation and Usage:
